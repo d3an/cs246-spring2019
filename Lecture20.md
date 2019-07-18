@@ -64,7 +64,7 @@
 
 ### Factory Method Pattern
 
-![Factory_Pattern](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/Factory_Pattern.jpg)
+![Factory_Pattern](./Pictures/Factory_Pattern.jpg)
 
 ```cpp
 Player * p = ...;
@@ -103,7 +103,7 @@ The factory method pattern is also called the "virtual constructor" pattern.
 - Base class implements the template/skeleton and the subclass fills the blanks.
 - Base class allows overriding of some virtual methods, but other methods must remain unchanged (non-virtual).
 
-![Template_Pattern](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/Template_Pattern.jpg)
+![Template_Pattern](./Pictures/Template_Pattern.jpg)
 
 ```cpp
 class Turtle {
@@ -165,7 +165,7 @@ class Media {
 
 ### Visitor Design Pattern
 
-![Visitor_Pattern](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/Visitor_Pattern.jpg)
+![Visitor_Pattern](./Pictures/Visitor_Pattern.jpg)
 
 ```cpp
 class Enemy {

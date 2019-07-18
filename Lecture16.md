@@ -42,7 +42,7 @@ class Vec {
 
 - Scratching the surface 
 
-![Class_UML](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/Class_UML.jpg)
+![Class_UML](./Pictures/Class_UML.jpg)
 
 - Whenever possible use general types not specific to a language
 
@@ -106,7 +106,7 @@ class Car {
 };
 ```
 
-![UML_2](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_2.jpg)
+![UML_2](./Pictures/UML_2.jpg)
 
 
 
@@ -119,7 +119,7 @@ Typically, A HAS-A B, if:
 - When A is copied, B is not
 - When A is destroyed, B is not
 
-![UML_3](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_3.jpg)
+![UML_3](./Pictures/UML_3.jpg)
 
 ```cpp
 class Lake {
@@ -131,7 +131,7 @@ class Lake {
 
 ### Inheritance
 
-### ![UML_4](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_4.jpg)
+### ![UML_4](./Pictures/UML_4.jpg)
 
 Unable to create a collection that contains a mix of Book/Text/Comic.
 
@@ -140,7 +140,7 @@ Observation:
 - Text IS_A Book (with an extra topic field)
 - Comic IS_A Book (with an extra hero field)
 
-![UML_5](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_5.jpg)
+![UML_5](./Pictures/UML_5.jpg)
 
 Derived class inherits ALL (public & private) members (fields as methods) from the Base class. 
 

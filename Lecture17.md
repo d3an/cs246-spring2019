@@ -6,7 +6,7 @@
 
 ### Last Time
 
-![UML_6](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_6.jpg)
+![UML_6](./Pictures/UML_6.jpg)
 
 - A derived class inherits all members from the base class
 - A derived class cannot access private inherited members
@@ -117,7 +117,7 @@ b1.isHeavy(); // Book::isHeavy, false => Good
 
 
 
-![UML_7](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_7.jpg)
+![UML_7](./Pictures/UML_7.jpg)
 
 Using superclass pointers, to point to subclass objects will not cause slicing.
 
@@ -129,7 +129,7 @@ bp->isHeavy();
 // (2) Comic::isHeavy()
 ```
 
-![UML_8](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_8.jpg)
+![UML_8](./Pictures/UML_8.jpg)
 
 By default, the compiler looks at the declared type of the pointer to choose which method to run (static dispatch). We typically want the method to be chosen based on the type of object. 
 
@@ -156,7 +156,7 @@ bp->isHeavy();
 br.isHeavy();
 ```
 
-![UML_9](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/UML_9.jpg)
+![UML_9](./Pictures/UML_9.jpg)
 
 
 

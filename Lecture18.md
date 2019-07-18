@@ -77,9 +77,9 @@ A class is concrete if it is not abstract. Cannot create objects of an abstract 
 - act as an interface
 - Polymorphism
 
-![CODE_1](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/CODE_1.jpg)
+![CODE_1](./Pictures/CODE_1.jpg)
 
-![CODE_2](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/CODE_2.jpg)
+![CODE_2](./Pictures/CODE_2.jpg)
 
 
 

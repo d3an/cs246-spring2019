@@ -50,7 +50,7 @@ Advice: catch by reference:
 
 ### Decorator Pattern
 
-![DECOR_1](/Users/jamesbury/Desktop/2B/2B Study/CS246/Pictures/DECOR_1.jpg)
+![DECOR_1](./Pictures/DECOR_1.jpg)
 
 - Scroll IS-A Window
 - Scroll HAS-A Window
